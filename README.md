@@ -35,7 +35,7 @@ pip install opencv-python
    ```
 3. A window will open showing the webcam feed.
 
-   * Press **`q`** to quit the program
+   * Press **`esc`** to quit the program
 
 ---
 
@@ -59,7 +59,7 @@ cap = cv2.VideoCapture(0)
 4. **Drawing & Display** – Rectangles are drawn around detected regions and displayed using `cv2.imshow()`.
 5. **Key Controls** –
 
-   * `q`: exits the loop and closes all windows
+   * `esc`: exits the loop and closes all windows
 
 ---
 
